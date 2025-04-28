@@ -1,0 +1,20 @@
+body {
+  background-color: #24252e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: #85b6ea;
+  transition: 0.3s ease-in-out;
+}
+
+h1:hover {
+  text-shadow: 0px 0px 10px #85b6ea;
+}
+
+p {
+  color: #f2f8f8;
+  font-size: 1.01em;
+}

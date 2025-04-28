@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+    <task>
+        <id>1</id>
+        <title>Comprar leite</title>
+        <completed>false</completed>
+    </task>
+    <task>
+        <id>2</id>
+        <title>Estudar para a prova</title>
+        <completed>true</completed>
+    </task>
+    <task>
+        <id>3</id>
+        <title>Limpar o quarto</title>
+        <completed>false</completed>
+    </task>
+</tasks>

@@ -1,0 +1,19 @@
+{
+    "contacts": [
+        {
+            "name": "João",
+            "phone": "1234-5678",
+            "email": "joao@example.com"
+        },
+        {
+            "name": "Maria",
+            "phone": "8765-4321",
+            "email": "maria@example.com"
+        },
+        {
+            "name": "Pedro",
+            "phone": "1122-3344",
+            "email": "pedro@example.com"
+        }
+    ]
+}
