@@ -7,7 +7,7 @@ body {
 
 h1 {
   color: #8BE9FD;
-  transition: 1s ease-in-out;
+  transition: 0.3s ease-in-out;
 }
 
 h1:hover {
@@ -17,4 +17,14 @@ h1:hover {
 p {
   color: #F8F8F2;
   font-size: 1.01em;
+}
+
+a {
+  color: #50FA7B;
+  text-decoration: none;
+  transition: 0.3s ease-in-out;
+}
+
+a:hover {
+  text-decoration: underline;
 }
